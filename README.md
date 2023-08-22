@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hello, I am Morlvoid. You can call me Mor. I am working hard as a student!
+
+- 🌱 I like hackers, but I hope to become a software and game developer. In the future, my projects will be open source on Github.
+- 🌱 I also want to become an illustrator, sometimes posting works on pixiv websites.
+- ❤ Kirara in Arkights is my favorite character.
+- 💬 My blog: http://morlvoid.pro/
+- 💬 My Pixiv: https://www.pixiv.net/users/18803642
+- 💬 My other Github:https://github.com/KiraraKira
+- 💬 BLBL:https://space.bilibili.com/40103446
+- 😄 Welcome to be friends with me: 1523467770@qq.com
