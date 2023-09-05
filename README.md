@@ -15,13 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello, I am Morlvoid. You can call me Mor. I am working hard as a student!
+👋 Hello, I am Morlvoid. You can call me Mor. 
 
-- 🌱 I like hackers, but I hope to become a software and game developer. In the future, my projects will be open source on Github.
+- 🌱 I am working hard as a student! I like hackers, but I hope to become a software and game developer. In the future my projects will be open source on Github.
+- 🤔 My studio：https://github.com/Maltor-Studio
+
+
 - 🌱 I also want to become an illustrator, sometimes posting works on pixiv websites.
+- - 💬 My Pixiv: https://www.pixiv.net/users/18803642
+ 
+
 - ❤ Kirara in Arkights is my favorite character.
+- 💬 Kirara Github: https://github.com/KiraraKira
+
+  
 - 💬 My blog: http://morlvoid.pro/
-- 💬 My Pixiv: https://www.pixiv.net/users/18803642
-- 💬 My other Github:https://github.com/KiraraKira
-- 💬 BLBL:https://space.bilibili.com/40103446
+- 💬 Other blog: https://morlvoid.github.io/
+- 💬 BLBL: https://space.bilibili.com/40103446
 - 😄 Welcome to be friends with me: 1523467770@qq.com
+
