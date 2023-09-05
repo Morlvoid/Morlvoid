@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 - -  🤔 My studio：https://github.com/Maltor-Studio
 
 <br>
+
 - 🌱 I also want to become an illustrator, sometimes posting works on pixiv websites.
-- - 💬 My Pixiv: https://www.pixiv.net/users/18803642
+- -  💬 My Pixiv: https://www.pixiv.net/users/18803642
 <br>
 
 - ❤ Kirara in Arkights is my favorite character.
