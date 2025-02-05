@@ -25,15 +25,14 @@ Here are some ideas to get you started:
 
 - 🌱 I also want to become an illustrator, sometimes posting works on pixiv websites.
 - -  💬 My Pixiv: https://www.pixiv.net/users/18803642
-<br>
 
-- ❤ Like ACG and VOCALOID culture.
--  - 💬 Kirara Github: https://github.com/KiraraKira
+
 <br>
 
 - 💬 My blog: http://morlvoid.pro/
 -  - 💬 Other blog: https://morlvoid.github.io/
 -  - 💬 BLBL: https://space.bilibili.com/40103446
+-  - 💬 Kirara Github: https://github.com/KiraraKira
 
 <hr>
 😄 Welcome to be friends with me: 1523467770@qq.com
