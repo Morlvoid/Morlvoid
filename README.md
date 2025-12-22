@@ -1,25 +1,10 @@
-### Hi there 👋
+### Hi there, welcome to my page! 👋
+Hello, I'm Mor, you can call me momo or Morlvoid. I'm from China.
 
-<!--
-**Morlvoid/Morlvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-👋 Hello, I am Mor. 
-<br>
-
-- 🌱 I am working hard as a student! I like hackers, but I hope to become a software and game developer. In the future my projects will be open source on Github.
-- -  🤔 My studio：
+- 🌱 I'm working hard as a student to learn programming and development! Front-end development is really fun, 🎨and I hope to become a UX developer, software developer, and game developer who combines programming with anime and manga drawing.
+- 🖌️ I believe the collision of code and art can be truly beautiful! In the future, my projects will be open-sourced on GitHub. 🐱 If you're also interested in development, let's connect!💌
+-  My email is:morlvoid@qq.com
+- 🤔 My studio：
 
 <br>
 
@@ -32,8 +17,7 @@ Here are some ideas to get you started:
 - 💬 My blog: http://morlvoid.pro/
 -  - 💬 Other blog: https://morlvoid.github.io/
 -  - 💬 BLBL: https://space.bilibili.com/40103446
--  - 💬 Kirara Github: https://github.com/KiraraKira
 
 <hr>
-😄 Welcome to be friends with me: 1523467770@qq.com
+😄 Welcome to be friends with me!
 
