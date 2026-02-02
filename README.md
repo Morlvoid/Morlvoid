@@ -1,4 +1,3 @@
-### Hi there, welcome to my page! 👋
 Hello, I'm Mor, you can call me momo or Morlvoid. I'm from China.
 <br>
 你好！我是馍馍，也可以叫我Morlvoid。来自中国。
@@ -7,19 +6,10 @@ Hello, I'm Mor, you can call me momo or Morlvoid. I'm from China.
 - 🖌️ I believe the collision of code and art can be truly beautiful! In the future, my projects will be open-sourced on GitHub. 🐱 If you're also interested in development, let's connect!💌
 - 如果你也喜欢秃头（划掉）请加入我的后宫（不是）。
 -  My email is:morlvoid@qq.com
-
-<br>
-
 - 🌱 I also want to become an illustrator, sometimes posting works on pixiv websites.
 - 是的我还画画，请看我的P站：
 - -  💬 My Pixiv: https://www.pixiv.net/users/18803642
-
-<br>
-
 - 💬 My blog: http://morlvoid.pro/
 -  - 💬 BLBL: https://space.bilibili.com/40103446
 
-<hr>
-😄 Welcome to be friends with me!
-
-![馍馍_到达(为了食物)_2026-02-02-22-29-50](https://github.com/user-attachments/assets/6291c018-ec1f-481a-bda8-99dae1a3f761)
+![馍馍_到达(为了食物)_2026-02-03-03-41-16](https://github.com/user-attachments/assets/fda4e352-dd20-4560-98fe-4435555e842c)
