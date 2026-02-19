@@ -12,4 +12,5 @@ Hello, I'm Mor, you can call me momo or Morlvoid. I'm from China.
 - 💬 My blog: http://morlvoid.pro/
 -  - 💬 BLBL: https://space.bilibili.com/40103446
 
-![馍馍_到达(为了食物)_2026-02-03-03-41-16](https://github.com/user-attachments/assets/fda4e352-dd20-4560-98fe-4435555e842c)
+<img width="200" height="200" alt="馍馍-白_2026-02-17-22-20-29" src="https://github.com/user-attachments/assets/538f87cf-2e92-43b7-88ff-04e7526f2a0d" />
+
