@@ -1,6 +1,9 @@
 Hello, I'm Mor, you can call me momo or Morlvoid. I'm from China.
 <br>
-你好！我是馍馍，也可以叫我Morlvoid。来自中国。
+你好！我是馍馍，也可以叫我Morlvoid。来自中国。<br>
+**A pigeon driven by curiosity.** <br>
+一只兴趣使然的鸽子。
+
 - 🌱 I am a full-stack developer but I really enjoy front-end development.And I'm working hard as a student to learn programming and development! Front-end development is really fun, 🎨and I hope to become a UX developer, software developer, and game developer who combines programming with anime and manga drawing.
 - 全栈开发移情别恋ing。正在学习前端开发，前端真是太好丸辣.jpg。先立个flag想做动画和代码结合的UX设计师。
 - 🖌️ I believe the collision of code and art can be truly beautiful! In the future, my projects will be open-sourced on GitHub. 🐱 If you're also interested in development, let's connect!💌
