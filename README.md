@@ -6,10 +6,10 @@ Hello, I'm Mor, you can call me momo or Morlvoid. I'm from China.
 - 🖌️ I believe the collision of code and art can be truly beautiful! In the future, my projects will be open-sourced on GitHub. 🐱 If you're also interested in development, let's connect!💌
 - 如果你也喜欢秃头（划掉）请加入我的后宫（不是）。
 -  My email is:morlvoid@qq.com
+-  **My blog: http://morlvoid.pro**
 - 🌱 I also want to become an illustrator, sometimes posting works on pixiv websites.
 - 是的我还画画，请看我的P站：
 - -  💬 My Pixiv: https://www.pixiv.net/users/18803642
-- 💬 My blog: http://morlvoid.pro/
 -  - 💬 BLBL: https://space.bilibili.com/40103446
 
 <img width="200" height="200" alt="馍馍-白_2026-02-17-22-20-29" src="https://github.com/user-attachments/assets/538f87cf-2e92-43b7-88ff-04e7526f2a0d" />
