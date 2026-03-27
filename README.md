@@ -8,7 +8,7 @@ Hello, I'm Mor, you can call me momo or Morlvoid. I'm from China.
 - 全栈开发移情别恋ing。正在学习前端开发，前端真是太好丸辣.jpg。先立个flag想做动画和代码结合的UX设计师。
 - 🖌️ I believe the collision of code and art can be truly beautiful! In the future, my projects will be open-sourced on GitHub. 🐱 If you're also interested in development, let's connect!💌
 - 如果你也喜欢秃头（划掉）请加入我的后宫（不是）。
--  My email is:morlvoid@qq.com
+-  My email is:morlvoid@qq.com or 1523467770@qq.com 
 -  **My blog: http://morlvoid.pro**
 - 🌱 I also want to become an illustrator, sometimes posting works on pixiv websites.
 - 是的我还画画，请看我的P站：
